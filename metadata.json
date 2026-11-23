@@ -1,0 +1,6 @@
+{
+  "name": "CronDeck",
+  "description": "Fast, Resend-inspired Termux API cron job & background automation manager with presets, beginner guide, DND-aware TTS/alarm alerts, and optional AES-256-GCM script encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
